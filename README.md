@@ -1,5 +1,5 @@
 - Hi, I’m @JackGardnerDev
 - I’m interested in Web Development & Cyber Security
-- Currently studying Computer Science at RMIT University.
+- IT Graduate at RMIT University.
 - Email: jackmcggardner@outlook.com
-- Website: https://cleaver-dev.netlify.app/
+- Website: https://jackgardnerdev.github.io/portfolio/
