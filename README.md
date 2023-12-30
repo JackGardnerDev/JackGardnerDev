@@ -2,4 +2,4 @@
 - I’m interested in Web Development & Cyber Security
 - IT Graduate at RMIT University.
 - Email: jackmcggardner@outlook.com
-- Website: https://jackgardnerdev.github.io/portfolio/
+- Website: jackgardnerdev.github.io/portfolio
